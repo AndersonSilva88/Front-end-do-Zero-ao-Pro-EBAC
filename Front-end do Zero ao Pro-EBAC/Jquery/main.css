@@ -35,19 +35,22 @@ form h2 {
 input,
 button {
     padding: 8px;
+    border-radius: 5px;
 }
 
 button {
-    background-color: #009422;
+    background-color: #55d974;
     border: none;
     cursor: pointer;
     font-weight: bold;
     text-transform: uppercase;
     color: #fff;
+    border-radius: 5px;
 }
 
 #btn-cancelar {
-    background-color: red;
+    background-color: rgb(222, 83, 83);
+
 }
 
 ul {
